@@ -1,5 +1,3 @@
-# mysql_root_password: ExpenseApp@1
-# DB_HOST: db.narendra.shop
-# login_user: root
-app_location: /app
-component: backend
+mysql_root_password: ExpenseApp@1
+DB_HOST: db.narendra.shop
+login_user: root
